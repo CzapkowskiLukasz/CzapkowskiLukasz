@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @CzapkowskiLukasz
 - 👀 I’m interested in new technologies, UI desingns and plants
-- 🌱 I’m currently learning C# and Swift
